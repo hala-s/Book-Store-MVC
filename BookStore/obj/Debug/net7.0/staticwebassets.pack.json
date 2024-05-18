@@ -1,0 +1,1077 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BookStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BookStore.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\DashboardStyle.css",
+      "PackagePath": "staticwebassets\\Dashboard\\DashboardStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\css\\brands.css",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\css\\regular.css",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\css\\solid.css",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\css\\v4-font-face.css",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\css\\v4-font-face.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\css\\v4-font-face.min.css",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\css\\v4-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\css\\v5-font-face.css",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\css\\v5-font-face.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\css\\v5-font-face.min.css",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\css\\v5-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\js\\all.js",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\js\\all.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\js\\all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\js\\brands.js",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\js\\brands.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\js\\brands.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\js\\brands.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\js\\conflict-detection.js",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\js\\conflict-detection.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\js\\conflict-detection.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\js\\conflict-detection.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\js\\fontawesome.js",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\js\\fontawesome.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\js\\regular.js",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\js\\regular.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\js\\regular.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\js\\regular.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\js\\solid.js",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\js\\solid.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\js\\solid.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\js\\solid.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\js\\v4-shims.js",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\js\\v4-shims.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\js\\v4-shims.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\js\\v4-shims.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\less\\_animated.less",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\less\\_animated.less"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\less\\_bordered-pulled.less",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\less\\_bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\less\\_core.less",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\less\\_core.less"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\less\\_fixed-width.less",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\less\\_fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\less\\_icons.less",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\less\\_icons.less"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\less\\_list.less",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\less\\_list.less"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\less\\_mixins.less",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\less\\_mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\less\\_rotated-flipped.less",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\less\\_rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\less\\_screen-reader.less",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\less\\_screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\less\\_shims.less",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\less\\_shims.less"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\less\\_sizing.less",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\less\\_sizing.less"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\less\\_stacked.less",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\less\\_stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\less\\_variables.less",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\less\\_variables.less"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\less\\brands.less",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\less\\brands.less"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\less\\fontawesome.less",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\less\\fontawesome.less"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\less\\regular.less",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\less\\regular.less"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\less\\solid.less",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\less\\solid.less"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\less\\v4-shims.less",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\less\\v4-shims.less"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\metadata\\categories.yml",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\metadata\\categories.yml"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\metadata\\icon-families.json",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\metadata\\icon-families.json"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\metadata\\icon-families.yml",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\metadata\\icon-families.yml"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\metadata\\icons.json",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\metadata\\icons.json"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\metadata\\icons.yml",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\metadata\\icons.yml"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\metadata\\shims.json",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\metadata\\shims.json"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\metadata\\shims.yml",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\metadata\\shims.yml"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\metadata\\sponsors.yml",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\metadata\\sponsors.yml"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\scss\\_shims.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\scss\\_shims.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\scss\\_sizing.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\scss\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\scss\\brands.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\scss\\brands.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\scss\\fontawesome.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\scss\\fontawesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\scss\\regular.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\scss\\regular.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\scss\\solid.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\scss\\solid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\scss\\v4-shims.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\scss\\v4-shims.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\42-group.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\42-group.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\500px.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\500px.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\accessible-icon.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\accessible-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\accusoft.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\accusoft.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\adn.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\adn.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\adversal.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\adversal.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\affiliatetheme.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\affiliatetheme.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\airbnb.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\airbnb.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\algolia.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\algolia.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\alipay.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\alipay.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\amazon-pay.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\amazon-pay.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\amazon.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\amazon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\amilia.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\amilia.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\android.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\android.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\angellist.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\angellist.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\angrycreative.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\angrycreative.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\angular.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\angular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\app-store-ios.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\app-store-ios.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\app-store.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\app-store.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\apper.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\apper.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\apple-pay.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\apple-pay.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\apple.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\apple.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\artstation.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\artstation.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\asymmetrik.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\asymmetrik.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\atlassian.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\atlassian.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\audible.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\audible.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\autoprefixer.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\autoprefixer.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\avianex.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\avianex.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\aviato.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\aviato.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\aws.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\aws.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\bandcamp.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\bandcamp.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\battle-net.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\battle-net.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\behance.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\behance.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\bilibili.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\bilibili.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\bimobject.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\bimobject.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\bitbucket.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\bitbucket.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\bitcoin.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\bitcoin.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\bity.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\bity.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\black-tie.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\black-tie.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\blackberry.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\blackberry.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\blogger-b.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\blogger-b.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\blogger.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\blogger.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\bluetooth-b.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\bluetooth-b.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\bluetooth.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\bluetooth.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\bootstrap.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\bootstrap.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\bots.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\bots.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\btc.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\btc.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\buffer.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\buffer.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\buromobelexperte.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\buromobelexperte.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\buy-n-large.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\buy-n-large.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\buysellads.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\buysellads.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\canadian-maple-leaf.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\canadian-maple-leaf.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cc-amazon-pay.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cc-amazon-pay.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cc-amex.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cc-amex.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cc-apple-pay.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cc-apple-pay.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cc-diners-club.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cc-diners-club.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cc-discover.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cc-discover.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cc-jcb.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cc-jcb.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cc-mastercard.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cc-mastercard.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cc-paypal.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cc-paypal.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cc-stripe.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cc-stripe.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cc-visa.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cc-visa.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\centercode.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\centercode.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\centos.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\centos.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\chrome.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\chrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\chromecast.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\chromecast.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cloudflare.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cloudflare.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cloudscale.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cloudscale.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cloudsmith.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cloudsmith.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cloudversify.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cloudversify.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cmplid.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cmplid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\codepen.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\codepen.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\codiepie.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\codiepie.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\confluence.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\confluence.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\connectdevelop.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\connectdevelop.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\contao.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\contao.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cotton-bureau.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cotton-bureau.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cpanel.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cpanel.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\creative-commons-by.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\creative-commons-by.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\creative-commons-nc-eu.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\creative-commons-nc-eu.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\creative-commons-nc-jp.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\creative-commons-nc-jp.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\creative-commons-nc.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\creative-commons-nc.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\creative-commons-nd.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\creative-commons-nd.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\creative-commons-pd-alt.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\creative-commons-pd-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\creative-commons-pd.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\creative-commons-pd.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\creative-commons-remix.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\creative-commons-remix.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\creative-commons-sa.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\creative-commons-sa.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\creative-commons-sampling-plus.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\creative-commons-sampling-plus.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\creative-commons-sampling.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\creative-commons-sampling.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\creative-commons-share.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\creative-commons-share.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\creative-commons-zero.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\creative-commons-zero.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\creative-commons.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\creative-commons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\critical-role.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\critical-role.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\css3-alt.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\css3-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\css3.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\css3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cuttlefish.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\cuttlefish.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\d-and-d-beyond.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\d-and-d-beyond.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\d-and-d.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\d-and-d.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\dailymotion.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\dailymotion.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\dashcube.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\dashcube.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\deezer.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\deezer.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\delicious.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\delicious.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\deploydog.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\deploydog.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\deskpro.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\deskpro.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\dev.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\dev.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\deviantart.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\deviantart.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\dhl.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\dhl.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\diaspora.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\diaspora.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\digg.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\digg.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\digital-ocean.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\digital-ocean.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\discord.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\discord.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\discourse.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\discourse.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\dochub.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\dochub.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\docker.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\docker.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\draft2digital.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\draft2digital.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\dribbble.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\dribbble.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\dropbox.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\dropbox.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\drupal.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\drupal.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\dyalog.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\dyalog.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\earlybirds.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\earlybirds.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\ebay.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\ebay.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\edge-legacy.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\edge-legacy.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\edge.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\edge.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\elementor.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\plugins\\fontawesome\\svgs\\brands\\elementor.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\BookStore\\BookStore\\BookStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BookStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BookStore.props",
+      "PackagePath": "build\\BookStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BookStore.props",
+      "PackagePath": "buildMultiTargeting\\BookStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BookStore.props",
+      "PackagePath": "buildTransitive\\BookStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,17 @@
+﻿body {
+}
+.sidebar{
+    background-color:#0C484B;
+height:100%;
+
+}
+.sidebar a{
+    color: #f7f5f2
+}
+.sidebar a:hover {
+        color: #E1A66F;
+}
+.Add-btn {
+    background-color: #E1A66F;
+    color: #f7f5f2;
+}
